@@ -1,4 +1,4 @@
-# twilioVideoChat
+# videoChatTwilio
 ## Description
 A simple video chat app with one room using twilio. Server side with python Flask. Client side with JS.
 ## Structure
